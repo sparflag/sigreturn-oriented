@@ -1,0 +1,7 @@
+slug: sigreturn-oriented
+title: Sigreturn Oriented
+category: binary exploitation
+difficulty: hard
+points: 450
+codec: fernet
+repo_url: https://github.com/sparflag/sigreturn-oriented
